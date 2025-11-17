@@ -1,4 +1,2 @@
-# MLOps Practical 1
-This is the GitHub repository for the Reproducibility & Model Deployment course.  
-Author: Luning Zhang
-
+## About this Repo
+This is my first GitHub repository for the MLOps practical session.
